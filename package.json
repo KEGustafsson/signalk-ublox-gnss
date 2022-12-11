@@ -1,0 +1,32 @@
+{
+  "name": "ssignalk-ublox-gnss",
+  "version": "0.0.1",
+  "description": "Signal K Node.js server plugin to read U-Blox GNSS receiver data",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": "Karl-Erik Gustafsson <ke.gustafsson@gmail.com>",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/KEGustafsson/signalk-ublox-gnss#readme",
+  "bugs": {
+    "url": "https://github.com/KEGustafsson/signalk-ublox-gnss/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KEGustafsson/signalk-ublox-gnss"
+  },
+  "contributors": [],
+  "dependencies": {
+    "debug": "^4.0.1",
+    "package-lock.json": "^1.0.0",
+    "serialport": "^9.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-things": "^0.2.0",
+    "mocha": "^6.0.0"
+  }
+}
